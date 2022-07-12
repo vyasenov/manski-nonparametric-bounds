@@ -1,5 +1,5 @@
 # manski-nonparametric-bounds
- Stata code to estimate various non-parametric bounds proposed by Charles Manski and co-authors.
+Estimate various non-parametric bounds proposed by Charles Manski and co-authors.
  
  See the referenced papers below for more details.
  
